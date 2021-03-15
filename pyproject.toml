@@ -5,6 +5,9 @@ description = "Python package that eases the pain of concatenating Pandas catego
 authors = ["William Xu <yihangxu001@hotmail.com>"]
 license = "MIT"
 readme = "README.md"
+homepage = "https://github.com/williamxu7/pypkgs_YX"
+repository = "https://github.com/williamxu7/pypkgs_YX"
+documentation = 'https://package_YX.readthedocs.io'
 
 [tool.poetry.dependencies]
 python = "^3.8"
